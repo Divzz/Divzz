@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I am an Engineer who believes that - if you can imagine it, you can create it! 
-
 Welcome to my world of imaginations and creations!
 
 - 🔭 I’m currently working on full stack development on React, Electron and Node.Js
